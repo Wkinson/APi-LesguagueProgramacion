@@ -1,0 +1,16 @@
+{
+  "name": "lenguaje-programacion-api",
+  "version": "1.0.0",
+  "description": "API de lenguaje de programacion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wilkinto",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3"
+  }
+}
